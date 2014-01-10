@@ -1,0 +1,4 @@
+Elver.*
+.*
+!.gitignore
+out/*
